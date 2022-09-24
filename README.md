@@ -1,4 +1,4 @@
-# NOT MOBILE FRIENDLY YET // NOT MOBILE FRIENDLY YET // NOT MOBILE FRIENDLY YET // NOT MOBILE FRIENDLY YET //
+# NOT MOBILE FRIENDLY YET // NOT MOBILE FRIENDLY YET
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
