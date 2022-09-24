@@ -1,0 +1,19 @@
+.footer {
+    position: relative;
+    left: 0;
+    bottom: 0;
+    width: 200px;
+    height: 100px;
+    background-color: transparent;
+    color: black;
+    display: flex;
+    justify-content: space-between;
+    padding: 0 150px;
+}
+
+p{
+    cursor: pointer;
+}
+
+
+

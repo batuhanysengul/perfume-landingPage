@@ -27,7 +27,7 @@ const Home2 = () => {
   return (
     <>
       <div className="main-container" id="main-container">
-        <div className="title-container" ref={ref} data-scroll-container>
+        <div className="title-container" ref={ref}>
           {pageData.map(({ title }, index) => (
             <Title
               key={title}

@@ -5,7 +5,7 @@
 .title-container {
     position: relative;
     display: block;
-    padding-top: 37.77vh;
+    padding-top: 10vh;
     padding-top: calc(var(5.6px, 1vh) * 37.77);
     padding-bottom: 10vh;
     padding-bottom: calc(var(5.6px, 1vh) * 10);
